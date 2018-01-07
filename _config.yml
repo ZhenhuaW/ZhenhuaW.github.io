@@ -15,22 +15,22 @@ categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileo.top
+BASE_PATH : http://andyking.top
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
+description : 你是我魂牵梦绕的美！
+title : Andy King
 logo : /assets/images/avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
-  maxim: Stay hungry,Stay foolish
+  name: 王振华
+  maxim: for you
   role: Jekyll Theme
-  email: goileolee@gmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  email: wzhenhua520@gmail.com
+  github: ZhenhuaW
+  twitter: NULL
+  facebook: andywang
+  googleplus: +null
+  bio: "Hi, 我是Andy King"
   uno-dbyll: /assets/images/avatar.jpg
